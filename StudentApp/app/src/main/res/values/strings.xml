@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Studen tApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string-array name="bilguun_arry">
+        <item>Pick a sound!</item>
+        <item>bird</item>
+        <item>clock</item>
+        <item>danger</item>
+        <item>irritating</item>
+        <item>song</item>
+    </string-array>
+</resources>
